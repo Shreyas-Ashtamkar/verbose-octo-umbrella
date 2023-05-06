@@ -1,0 +1,27 @@
+{
+  "name": "verbose-octo-umbrella",
+  "version": "1.0.0",
+  "description": "A basic MERN learning repo, created while teaching MERN to a friend",
+  "main": "index.js",
+  "scripts": {
+    "test": "node .\\index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyas-Ashtamkar/verbose-octo-umbrella.git"
+  },
+  "keywords": [
+    "MERN",
+    "React",
+    "Express",
+    "Learning",
+    "Teaching",
+    "Course"
+  ],
+  "author": "Shreyas Ashtamkar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Shreyas-Ashtamkar/verbose-octo-umbrella/issues"
+  },
+  "homepage": "https://github.com/Shreyas-Ashtamkar/verbose-octo-umbrella#readme"
+}
